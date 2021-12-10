@@ -1,0 +1,12 @@
+.result_button{
+  width: 45px;
+  height: 45px;
+  background-color: green;
+  border-radius: 5px;
+  border-style: none;
+  font-size: 25px;
+}
+.result_label{
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-weight: bold;
+}
